@@ -1,0 +1,42 @@
+***** IMAGES *****
+
+Files: assets/img/background.jpg
+Copyright: JAKO5D
+License: CC0 Creative Commons
+Comment: Taken from https://pixabay.com/en/ufo-spaceship-aircraft-drive-2287184/
+
+Files: assets/img/space1.jpg
+Copyright: ejakob
+License: CC0 Creative Commons
+Comment: Taken from https://pixabay.com/en/spaceship-science-fiction-165353/
+
+Files: assets/img/space2.jpg
+Copyright: hucky
+License: CC0 Creative Commons
+Comment: Taken from https://pixabay.com/en/spatial-exploration-blade-runner-3018174/
+
+***** ICONS *****
+
+Files: 
+assets/icons/space32.ico
+assets/icons/space32.png
+assets/icons/space64.png
+assets/icons/space128.png
+Copyright: Everaldo Coelho
+License:LGPL
+Comment: Taken from https://www.iconfinder.com/icons/3464/kspaceduel_spaceship_icon
+
+Files: 
+assets/icons/ask-us.svg
+assets/icons/bsd-3-clause.svg
+assets/icons/version-0.0.1.svg
+Copyright: Public Domain
+License: CC0 Creative Commons
+Comment: Taken from https://github.com/badges/shields/blob/master/LICENSE.md
+
+Files: assets/
+Copyright:
+License:
+Comment: Taken from 
+
+

@@ -1,0 +1,40 @@
+site_name: Command at Space Wiki
+
+theme:
+  name:  "readthedocs"
+  custom_dir: wiki-theme
+
+#  windmill, material, alabaster,, readthedocs, mkdocs 
+
+google_analytics: ["UA-120260276-1", "auto"]
+#repo_url: https://github.com/command-at-space/command-at-space.github.io
+#strict: true
+extra:
+  logo: 'img/space48.png'
+  include_toc: false
+  version: "0.0.1"
+
+pages:
+- 'Index': 'index.md'
+- GALAXY :
+    - 'Lore': 'galaxy/lore.md'   
+    - 'Travel': 'galaxy/travel.md'
+- PLAYER :
+    - 'Character': 'player/character.md'
+- EQUIPMENT: 
+    - 'Weapons': 'equipment/weapons.md'
+    - 'Outfits': 'equipment/outfits.md'
+- SHIPS :
+    - 'Ships': 'ships/ships.md'
+    - 'Systems': 'ships/systems.md'
+
+site_dir: 'wiki'
+docs_dir: '_docs'
+
+extra_css:
+- 'extra/css/extra.css'
+
+
+
+
+
