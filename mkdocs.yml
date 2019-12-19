@@ -2,12 +2,12 @@ site_name: Command at Space Wiki
 
 theme:
   name:  "readthedocs"
-  custom_dir: wiki-theme
+  #custom_dir: wiki-theme
 
 #  windmill, material, alabaster,, readthedocs, mkdocs 
 
 google_analytics: ["UA-120260276-1", "auto"]
-#repo_url: https://github.com/command-at-space/command-at-space.github.io
+#repo_url: https://github.com/command-at-space/commandatspace.com
 #strict: true
 extra:
   logo: 'img/space48.png'
@@ -28,7 +28,7 @@ pages:
     - 'Ships': 'ships/ships.md'
     - 'Systems': 'ships/systems.md'
 
-site_dir: 'wiki'
+site_dir: 'www/wiki'
 docs_dir: '_docs'
 
 extra_css:

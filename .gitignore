@@ -1,3 +1,12 @@
 # Ignore these folders
-
 _dev
+_aux
+
+# Ignore these files
+.env
+.DS_Store
+_private.js
+_private.json
+
+BingSiteAuth.xml
+sitemap.xml
