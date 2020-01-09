@@ -1,7 +1,7 @@
 
-![BSD-3-Clause](assets/icons/bsd-3-clause.svg)
+![BSD-3-Clause](www/assets/icons/bsd-3-clause.svg)
  
-# ![logo](assets/icons/space64.png) **COMMAND AT SPACE**
+# ![logo](www/assets/icons/space64.png) **COMMAND AT SPACE**
 
 2D Space Multiplayer Online Roguelite Game
 
@@ -17,7 +17,7 @@ The <strong>Syndicate</strong> finally became independent of The Republic. Now T
 The <strong>Far North</strong> is the new Wild West. Without law or government, law of the jungle reigns.  
 <strong>Independent Faction</strong>
 
-![Screenshot](assets/img/galaxyMap.png)
+![Screenshot](www/assets/img/galaxyMap.png)
 
 
 ## **Acknowledgment**
