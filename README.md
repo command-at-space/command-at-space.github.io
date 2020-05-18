@@ -1,9 +1,9 @@
 
-![BSD-3-Clause](www/assets/icons/bsd-3-clause.svg)
+![BSD-3-Clause](www/_public/icons/bsd-3-clause.svg)
  
-# ![logo](www/assets/icons/space64.png) **COMMAND AT SPACE**
+# ![logo](www/_public/icons/space64.png) **COMMAND AT SPACE**
 
-2D Space Multiplayer Online Roguelite Game
+2D Space Roguelite Game
 
 ## **LORE**
 
@@ -17,14 +17,14 @@ The <strong>Syndicate</strong> finally became independent of The Republic. Now T
 The <strong>Far North</strong> is the new Wild West. Without law or government, law of the jungle reigns.  
 <strong>Independent Faction</strong>
 
-![Screenshot](www/assets/img/galaxyMap.png)
+![Screenshot](www/_public/img/galaxyMap.png)
 
 
 ## **Acknowledgment**
 
 - Michael Zahniser for the great game [Endless Sky](https://github.com/endless-sky/endless-sky).
 
-- All the artwork is either public domain or released under a variety of Creative Commons licenses. To determine the copyright status of any of the artwork, consult the [copyright file](https://github.com/command-at-space/command-at-space.github.io/blob/master/copyright.txt).
+- All the artwork is either public domain or released under a variety of Creative Commons licenses. To determine the copyright status of any of the artwork, consult the [copyright file](https://github.com/command-at-space/commandatspace.com/blob/master/copyright.txt)
 
 
 
